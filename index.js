@@ -18,6 +18,9 @@ function BoardMember(name, homeState,  training){
     return  "I like to help people.";
   }
   
+  this.releasePressStatement(){
+    return 
+  }
   
   return this;
   
