@@ -18,8 +18,8 @@ function BoardMember(name, homeState,  training){
     return  "I like to help people.";
   }
   
-  this.releasePressStatement(){
-    return "You will see great things from Scuber,";
+  this.releasePressStatement = function(){
+    return "You will see great things from Scuber.";
   }
   
   return this;
