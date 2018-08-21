@@ -1,7 +1,7 @@
 function BoardMember(name, homeState,  training){
   this.name = name;
-  this.address = address; 
-  this.job = job;
+  this.homeState = homeState; 
+  this.training = training;
   return this;
 }
 
