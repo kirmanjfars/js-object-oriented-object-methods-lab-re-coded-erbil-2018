@@ -19,7 +19,7 @@ function BoardMember(name, homeState,  training){
   }
   
   this.releasePressStatement(){
-    return 
+    return "You will see great things from Scuber,";
   }
   
   return this;
