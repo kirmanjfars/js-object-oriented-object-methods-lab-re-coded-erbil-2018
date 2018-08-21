@@ -12,6 +12,13 @@ function BoardMember(name, homeState,  training){
     return  "You can do that!";
   }
   
+  
+
+  this.doCharity  = function(){
+    return  "You can do that!";
+  }
+  
+  
   return this;
   
  
